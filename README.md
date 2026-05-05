@@ -104,8 +104,8 @@
 | 仓库 | 简介 |
 |------|------|
 | [qt-compile-pipeline](https://github.com/Awesome-Embedded-Learning-Studio/qt-compile-pipeline) | Qt6 自动化交叉编译流水线，支持 ARM/ARM64 |
-| [PenguinLab](https://github.com/Awesome-Embedded-Learning-Studio/PenguinLab) *(私有)* | 从内核到用户空间，掌握嵌入式 Linux 与桌面 Linux 内核的动手实验场 |
-| [CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) *(私有)* | 用现代 C++23 编写的极简 BusyBox 替代品 |
+| [PenguinLab](https://github.com/Awesome-Embedded-Learning-Studio/PenguinLab) | 从内核到用户空间，掌握嵌入式 Linux 与桌面 Linux 内核的动手实验场 |
+| [CFBox](https://github.com/Awesome-Embedded-Learning-Studio/CFBox) | 用现代 C++23 编写的极简 BusyBox 替代品 |
 
 ---
 
